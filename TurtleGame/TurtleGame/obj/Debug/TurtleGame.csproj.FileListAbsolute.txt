@@ -1,0 +1,9 @@
+D:\Git\C#\GeekBrains\C# Quick Start\TurtleGame\TurtleGame\bin\Debug\TurtleGame.exe.config
+D:\Git\C#\GeekBrains\C# Quick Start\TurtleGame\TurtleGame\bin\Debug\TurtleGame.exe
+D:\Git\C#\GeekBrains\C# Quick Start\TurtleGame\TurtleGame\bin\Debug\TurtleGame.pdb
+D:\Git\C#\GeekBrains\C# Quick Start\TurtleGame\TurtleGame\bin\Debug\SmallBasicLibrary.dll
+D:\Git\C#\GeekBrains\C# Quick Start\TurtleGame\TurtleGame\bin\Debug\SmallBasicLibrary.xml
+D:\Git\C#\GeekBrains\C# Quick Start\TurtleGame\TurtleGame\obj\Debug\TurtleGame.csproj.CoreCompileInputs.cache
+D:\Git\C#\GeekBrains\C# Quick Start\TurtleGame\TurtleGame\obj\Debug\TurtleGame.exe
+D:\Git\C#\GeekBrains\C# Quick Start\TurtleGame\TurtleGame\obj\Debug\TurtleGame.pdb
+D:\Git\C#\GeekBrains\C# Quick Start\TurtleGame\TurtleGame\obj\Debug\TurtleGame.csprojResolveAssemblyReference.cache
